@@ -7,3 +7,4 @@ Change made after Git config. Change not saved.
 Change made on GitHub.
 
 Change added on main.
+Change made on the sample-1 branch.
